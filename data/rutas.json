@@ -1,0 +1,38 @@
+{
+    "Ruta NodeJS": {
+      "modulos": {
+        "Fundamentos de programación": ["Introducción a la algoritmia", "PSeInt", "Python"],
+        "Programación Web": ["HTML", "CSS", "Bootstrap"],
+        "Programación formal": ["Java", "JavaScript", "C#"],
+        "Bases de datos": {
+          "sgdb_principal": "MongoDb",
+          "sgdb_alternativo": "Postgresql"
+        },
+        "Backend": ["NetCore", "Spring Boot", "NodeJS", "Express"]
+      }
+    },
+    "Ruta Java": {
+      "modulos": {
+        "Fundamentos de programación": ["Introducción a la algoritmia", "PSeInt", "Python"],
+        "Programación Web": ["HTML", "CSS", "Bootstrap"],
+        "Programación formal": ["Java", "JavaScript", "C#"],
+        "Bases de datos": {
+          "sgdb_principal": "Mysql",
+          "sgdb_alternativo": "Postgresql"
+        },
+        "Backend": ["NetCore", "Spring Boot", "NodeJS", "Express"]
+      }
+    },
+    "Ruta NetCore": {
+      "modulos": {
+        "Fundamentos de programación": ["Introducción a la algoritmia", "PSeInt", "Python"],
+        "Programación Web": ["HTML", "CSS", "Bootstrap"],
+        "Programación formal": ["Java", "JavaScript", "C#"],
+        "Bases de datos": {
+          "sgdb_principal": "Postgresql",
+          "sgdb_alternativo": "MongoDb"
+        },
+        "Backend": ["NetCore", "Spring Boot", "NodeJS", "Express"]
+      }
+    }
+  }

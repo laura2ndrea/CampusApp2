@@ -1,0 +1,26 @@
+{
+    "1234567890": {
+      "nombre": "Pedro",
+      "apellido": "Gómez",
+      "especialidad": ["NodeJS", "Java"],
+      "horario_disponible": ["06:00 - 10:00", "10:00 - 14:00"]
+    },
+    "2345678901": {
+      "nombre": "María",
+      "apellido": "Martínez",
+      "especialidad": ["Java", "NetCore"],
+      "horario_disponible": ["10:00 - 14:00", "14:00 - 18:00"]
+    },
+    "3456789012": {
+      "nombre": "Ana",
+      "apellido": "López",
+      "especialidad": ["NetCore", "NodeJS"],
+      "horario_disponible": ["14:00 - 18:00", "18:00 - 22:00"]
+    },
+    "4567890123": {
+      "nombre": "Juan",
+      "apellido": "Rodríguez",
+      "especialidad": ["Java", "NetCore"],
+      "horario_disponible": ["06:00 - 10:00", "14:00 - 18:00"]
+    }
+  }
