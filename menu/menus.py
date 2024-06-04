@@ -1,4 +1,7 @@
 import menu.opciones as opciones
+import campers.operaciones as operaciones_campers
+import campers.consultas as consultas_campers
+import coordinacion_academica.operaciones as operaciones_academicas
 
 def menu_principal(): 
     while True: 
@@ -6,7 +9,7 @@ def menu_principal():
         print("Bienvenido al menú principal, por favor indique su rol: ")
         opcion = opciones.recorrer_opciones(opciones.opc_principal)
         if opcion == "1": 
-            print("coordinacion")
+           operaciones_academicas.cambiar_estado() 
         elif opcion == "2": 
             print("trainers")
         elif opcion == "3": 

@@ -1,24 +1,18 @@
 import json 
 
-data = {}
-
 def cargar_datos(nombre_archivo): 
-    global data
     try: 
-        with open(nombre_archivo, "r") as file:
-            data = json.load(file)
+        with open(nombre_archivo, "r", encoding="utf-8") as file:
             print ("Datos cargados exitosamente")
-    except Exception: 
-        print("Error al cargar los datos")
+            return json.load(file)
+    except Exception as e: 
+        print(f"Error al cargar los datos {e}")
 
 
-def guardar_datos(): 
-
-    return 
-
-def guardar_datos(file_name, data):
-    try:
-        with open(file_name, 'w') as file:
+def guardar_datos(nombre_archivo, data): 
+    try: 
+        with open (nombre_archivo, "w", encoding="utf-8") as file: 
             json.dump(data, file, indent=4)
-    except Exception as e:
-        print(f"Error al guardar datos: {e}")
+    except Exception as e: 
+        print(f"Error al guardar los datos: {e}")
+

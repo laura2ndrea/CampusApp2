@@ -9,3 +9,6 @@ def recorrer_opciones(opciones):
 
 def separador(): 
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+def mini_separador(): 
+    print("**************************")
