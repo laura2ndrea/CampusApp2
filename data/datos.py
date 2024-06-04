@@ -12,7 +12,7 @@ def cargar_datos(nombre_archivo):
 def guardar_datos(nombre_archivo, data): 
     try: 
         with open (nombre_archivo, "w", encoding="utf-8") as file: 
-            json.dump(data, file, indent=4)
+            json.dump(data, file, indent=4, ensure_ascii=False)
     except Exception as e: 
         print(f"Error al guardar los datos: {e}")
 

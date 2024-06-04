@@ -1,7 +1,7 @@
 {
     "00001": {
         "nombres": "Laura Andrea",
-        "apellidos": "Gonzales Mej\u00eda",
+        "apellidos": "González Mejía",
         "direccion": "Calle 123, Ciudad XYZ",
         "acudiente": "Mariana Rueda",
         "telefono_celular": "1234567890",
@@ -16,9 +16,9 @@
     },
     "00002": {
         "nombres": "Laura",
-        "apellidos": "Martinez",
+        "apellidos": "Martínez",
         "direccion": "Av. Principal, Pueblo ABC",
-        "acudiente": "Juan Martinez",
+        "acudiente": "Juan Martínez",
         "telefono_celular": "0987654321",
         "telefono_fijo": "1234567890",
         "estado": "Inscrito",
@@ -31,9 +31,9 @@
     },
     "00003": {
         "nombres": "Carlos",
-        "apellidos": "Lop\u00e9z",
+        "apellidos": "López",
         "direccion": "Carrera 45, Barrio DEF",
-        "acudiente": "Ana L\u00f3pez",
+        "acudiente": "Ana López",
         "telefono_celular": "555444333",
         "telefono_fijo": "666777888",
         "estado": "Cursando",
@@ -45,13 +45,13 @@
         }
     },
     "00004": {
-        "nombres": "Sof\u00eda",
-        "apellidos": "Perez",
-        "direccion": "Calle 67, Urbanizaci\u00f3n GHI",
-        "acudiente": "Pedro P\u00e9rez",
+        "nombres": "Sofía",
+        "apellidos": "Pérez",
+        "direccion": "Calle 67, Urbanización GHI",
+        "acudiente": "Pedro Pérez",
         "telefono_celular": "777888999",
         "telefono_fijo": "111222333",
-        "estado": "Aprobado",
+        "estado": "Expulsado",
         "riesgo": "",
         "pruebaIngreso": {
             "nota_practica": 90,
@@ -60,10 +60,10 @@
         }
     },
     "00005": {
-        "nombres": "Mar\u00eda",
-        "apellidos": "Gonzales Mej\u00eda",
+        "nombres": "María",
+        "apellidos": "González Mejía",
         "direccion": "Av. Principal, Ciudad JKL",
-        "acudiente": "Luis Gomez",
+        "acudiente": "Luis Gómez",
         "telefono_celular": "999888777",
         "telefono_fijo": "444555666",
         "estado": "Expulsado",
