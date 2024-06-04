@@ -1,6 +1,6 @@
 opc_principal = ("1. Coordinación", "2. Trainers", "3. Campers", "4. Salir del programa")
 
-opc_coordinacion = ("1. Gestión de matrícula", "2. Gestión de reportes", "3. Gestión de rutas", "4. Gestión de campers", "5. Salir del menú")
+opc_coordinacion = ("1. Gestión de matrícula", "2. Gestión de reportes", "3. Gestión de rutas", "4. Gesstión de campers", "5. Salir del menú")
 
 opc_gestion = ("1. Asignación de campers a rutas", "2. Asignacion de trainers a rutas", "3. Asignacion de fechas a rutas", "3. Asignación de salones a rutas", "4. Salir del menú")
 
