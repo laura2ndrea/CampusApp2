@@ -1,0 +1,32 @@
+[
+    {
+      "camper_id": ["12345", "67890", "11223"],
+      "trainer_id": "T001",
+      "ruta": "Ruta NodeJS",
+      "fecha_inicio": "2024-07-01",
+      "fecha_finalizacion": "2024-12-31",
+      "salon_entrenamiento": "Sputnik",
+      "cantidad_alumnos": 3,
+      "hora": "06:00 - 10:00"
+    },
+    {
+      "camper_id": ["33445", "55555", "66666"],
+      "trainer_id": "T002",
+      "ruta": "Ruta Java",
+      "fecha_inicio": "2024-07-01",
+      "fecha_finalizacion": "2024-12-31",
+      "salon_entrenamiento": "Artemis",
+      "cantidad_alumnos": 3,
+      "hora": "10:00 - 14:00"
+    },
+    {
+      "camper_id": ["77777", "88888", "99999"],
+      "trainer_id": "T003",
+      "ruta": "Ruta NetCore",
+      "fecha_inicio": "2024-07-01",
+      "fecha_finalizacion": "2024-12-31",
+      "salon_entrenamiento": "Apolo",
+      "cantidad_alumnos": 3,
+      "hora": "14:00 - 18:00"
+    }
+]
